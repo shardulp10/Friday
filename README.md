@@ -24,7 +24,6 @@ The assistant starts by listening for a wake word, indicating that a command is 
 - **Handling Ambiguity:** Implemented error handling and clarification prompts to manage ambiguous commands and enhance user experience.
 - **Real-Time Performance:** Ensured that the assistant operates in real-time, providing swift responses to user commands.
 
-**Future Enhancements:**
 - **Expanded Command Set:** Adding more functionalities, such as controlling media playback, managing emails, and scheduling tasks.
 - **Machine Learning Integration:** Incorporating machine learning algorithms to improve the assistant's ability to understand and predict user commands.
 - **Cross-Platform Support:** Extending compatibility to other operating systems and devices, such as mobile phones and smart home devices.
